@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Bad Design
 subtitle: Hey CSS...I'm locked out again
 ---
