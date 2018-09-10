@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Bad Design
-subtitle: There are paths to everywhere except the way I want to go.
+subtitle: There are paths everywhere except the way I want to go.
 ---
 
 ## "Don't follow the path. Blaze the trail." - *Jordan Belfort* ##
