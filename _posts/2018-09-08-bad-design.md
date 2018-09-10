@@ -4,6 +4,9 @@ title: Bad Design
 subtitle: Hey CSS...I'm locked out again
 ---
 
-<figure class="video_container">
-  <iframe src="https://drive.google.com/file/d/1wM9H-ojL8E9_8crTq67Xz5XCW6d0nW4P/preview" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
+![Trampled Grass](krtejeda.github.io/img/IMG_0722.jpg)
+![Trampled Grass](krtejeda.github.io/img/IMG_0725.jpg)
+![Trampled Grass](krtejeda.github.io/img/Screen Shot 2018-09-09 at 8.17.45 PM.jpg)
+![Trampled Grass](krtejeda.github.io/img/Screen Shot 2018-09-09 at 8.27.54 PM.jpg)
+
+
