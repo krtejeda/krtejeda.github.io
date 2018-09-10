@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Good Design
-Subtitle: I actually don't mind the marble...
+subtitle: I actually don't mind the marble...
 bigimg: /img/IMG_0727.jpg
 ---
 
