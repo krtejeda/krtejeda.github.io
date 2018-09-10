@@ -1,12 +1,18 @@
 ---
 layout: post
 title: Bad Design
-subtitle: Hey CSS...I'm locked out again
+subtitle: I love getting grass stains on my shoes
 ---
 
 ![Trampled Grass](krtejeda.github.io/img/IMG_0722.jpg)
+
+
 ![Trampled Grass](krtejeda.github.io/img/IMG_0725.jpg)
-![Trampled Grass](krtejeda.github.io/img/Screen Shot 2018-09-09 at 8.17.45 PM.jpg)
-![Trampled Grass](krtejeda.github.io/img/Screen Shot 2018-09-09 at 8.27.54 PM.jpg)
+
+
+![Trampled Grass](krtejeda.github.io/img/schow_map_path.jpg)
+
+
+![Trampled Grass](krtejeda.github.io/img/used_map_path.jpg)
 
 
