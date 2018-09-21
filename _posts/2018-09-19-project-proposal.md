@@ -3,7 +3,8 @@ layout: post
 title: Project Proposal
 subtitle: Personal Curator
 ---
-
+![](/img/Lindsey_Looking.JPG)
+([Source](https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjroOPamcvdAhUoc98KHXn3A7sQjRx6BAgBEAU&url=http%3A%2F%2Fkmuw.org%2Fpost%2Fhow-do-we-look-art-when-we-look-art&psig=AOvVaw2r5uJNK1tuFUXxyOPFrxgc&ust=1537588513660464))
 # Motivation
 
 Museums always have a story to tell. There is story in the art's conception, its creation, in the content of the art itself, and even in how it ended up right there in front of you. However, the challenge is that the story is not always perceptible. Most of the time, the story is there, but it’s either hidden, written on some small placard, on a wall somewhere distant, or locked in the mind of a curator who tries to express it through the abstract arrangement of the art pieces. Because the modes of story telling are so scattered, what results is a space that fails to articulate its intended structure. Ultimately, this leaves visitors no choice but to *wander.* To some people, this experience can be boring or frustrating. 
