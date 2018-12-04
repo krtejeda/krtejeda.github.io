@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Don't do your homework when your hungry and here's why
+title: (Design Manifesto) Don't do your homework when you're hungry and here's why 
 ---
 
 # [Intro] Top bun
