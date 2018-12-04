@@ -4,7 +4,7 @@ title: Don't do your homework when you're hungry and here's why
 subtitle: Design Manifesto 
 ---
 
-# [Intro] Top bun
+# [Top bun] Toast on grill for one semester
 
 I'm hungry. Be right back...*Phew* I almost wrote an essay that relied on a ridiculous hotdog metaphor to loosely string together a narrative.
 
@@ -14,7 +14,7 @@ I was dying for more. Luckily, later that year I worked with Iris Howley and thr
 
 I got another chance when I took Human-Computer Interaction in Fall 2018, and finally, I got a good bite, and it was so good. Here’s the recipe: 
 
-# [Body] Meat
+# [Meat] Grind together into a patty
 ### [1. Ethics] Okay fine...I wont be evil
 ![](/img/Ethics.jpg)
 
@@ -89,11 +89,11 @@ Demos and examples are also necessary to put power into the user’s hands and a
 ![](/img/Delivery2.png)
 *Interactive prototype for Personal CuraTour*
 
-# [Conclusion] Bottom bun
+# [Bottom bun] 
 
 Designers and engineers should consider create their own manifesto/Hippocratic Oath. In the meantime By the time I finished this manifesto, I got hungry again. Actually, as a matter of fact, I'm starving.  
 
-## [References] Side of fries
+## [Side of fries] 
 
 - gov.uk, "Dos and don'ts of designing for accessibility" on Gov.uk. 
 
