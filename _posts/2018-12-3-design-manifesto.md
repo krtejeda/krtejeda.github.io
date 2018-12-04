@@ -35,7 +35,7 @@ I would have liked to have made a stronger statement in my ethical code like “
 
 Part of my ethical code of doing no harm includes making sure a design is available to everyone, and I mean *everyone*. When I design for accessibility, I try to fulfill two components:  usability and availability. 
 
-First, a design is usable and intuitive if and only if it is accessible (don't ask me to do the proof, just trust me). As such, designing with accessibility principles in mind leads to functional yet elegant designs. In the design of our watch app, we strictly designed for accessibility using Apple’s [Apple Watch Human Interface guidelines](https://developer.apple.com/design/human-interface-guidelines/watchos/overview/themes/) and the [Dos and don'ts of designing for accessibility](https://www.google.com/url?q=https%3A%2F%2Fglow.williams.edu%2Ffiles%2F133121172%2Fdownload%3Fdownload_frd%3D1&sa=D&sntz=1&usg=AFQjCNETPD8zlkhx97yLnOXTp0N6UcqlCA) infographic, and what resulted was a beautiful and intuitive design. 
+First, a design is usable and intuitive if and only if it is accessible (don't ask me to do the proof, just trust me). As such, designing with accessibility principles in mind and as a priority leads to functional yet elegant designs. The preliminary design after I've made sure it is accessible can then be further refined to incorporate style and personality, but never at the risk of accessibility. In the design of our watch app, we strictly designed for accessibility using Apple’s [Apple Watch Human Interface guidelines](https://developer.apple.com/design/human-interface-guidelines/watchos/overview/themes/) and the [Dos and don'ts of designing for accessibility](https://www.google.com/url?q=https%3A%2F%2Fglow.williams.edu%2Ffiles%2F133121172%2Fdownload%3Fdownload_frd%3D1&sa=D&sntz=1&usg=AFQjCNETPD8zlkhx97yLnOXTp0N6UcqlCA) infographic, and what resulted was a beautiful and intuitive design. 
 
 ![](/img/Accessibility1.png)
 *Apple Watch Human Interface guidelines*
@@ -69,6 +69,12 @@ As a designer, I am responsible for pushing towards my best solution to a given 
 > Okay. Will this design actually help the user with the problem we identified?
 
 It’s necessary to diverge, but the purpose of the project and the design need to be at the forefront at all times or else the design gets lost. Before spending substantial time discussing with my group about adding extra features, I need think about how it affects the solution and if that solution aligns well with the problem.
+
+In essence, as a human, I am susceptible to fatigue and unfocusing, but if I ever find myself thinking: 
+
+> What am I doing here?
+
+then I need to reference my problem statement to help me redefine my purpose. To reiterate, a problem statement is the clearely defined issue with highlights of the main pain points. The purpose is a subjective, personal decision. It is informed by my values and what I believe to be the best solution to a given problem. 
 
 With the problem statement and purpose for solving the problem clearly defined, I now have a clear intention that will inform the development of my solution.
 
