@@ -1,6 +1,7 @@
 ---
 layout: post
-title: (Design Manifesto) Don't do your homework when you're hungry and here's why 
+title: Don't do your homework when you're hungry and here's why 
+subtitle: Design Manifesto 
 ---
 
 # [Intro] Top bun
@@ -22,7 +23,7 @@ Oh no, I'm getting hungry again...
 
 Despite the lighthearted header, this is perhaps my foremost important principal and why it is mentioned first. The difficulty with ethics, especially when working in a group, is that they are largely personal and subjective. As such, it is important for any designer to reflect on their values and abide by that strict ethical code. Mine is brief and simple
 
->> avoid harm
+> avoid harm
 
 This strict code also serves to protect my work from my own biases that could lead to irrational and inconsistent decisions. My responsibility as a designer with the power to create is to enhance the quality of life for those who use my design, no exceptions. Without a strict ethical code for me to reference, I risk subjecting myself to the creation of an endless list of special cases. Worse is that those special cases are often inconsistent with each other because of the lack of a clear foundation/reason for my decisions. As such, a strict ethical code allows me to convince myself and other group members of my rational behind a potentially critical decision.
 
@@ -64,16 +65,20 @@ As such, the user and the problem statement serve as guiding stars and focal poi
 
 [Source](https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjUsIPQx4XfAhWCmOAKHSG7BEcQjRx6BAgBEAU&url=http%3A%2F%2Fwww.expatmakeupaddict.com%2F2015%2F08%2Fwhat-am-i-doing-blogger-identity-crisis.html&psig=AOvVaw0RARuhwybGcVcaPwjtgt2V&ust=1543991750191968)
 
-Empathy. 
-Why are we doing any of this
-When you think about adding features, think why
-When you 
+As a designer, I am responsible for pushing towards my best solution to a given problem. That is our purpose. In order to do so requires a wide divergence into crazy, seemingly unrelated ideas. In the initial stages for the design of Personal CuraTour, some of the modalities we explored were watches, phones, glasses, shoes, and gum… By the time we got to gum, I had to stop us and say:
+
+> Okay. Will this design actually help the user with the problem we identified?
+
+It’s necessary to diverge, but the purpose of the project and the design need to be at the forefront at all times or else the design gets lost. Before spending substantial time discussing with my group about adding extra features, I need think about how it affects the solution and if that solution aligns well with the problem.
+
+With the problem statement and purpose for solving the problem clearly defined, I now have a clear intention that will inform the development of my solution.
+
 ### [5. The Delivery] Solution™ -- Now available wherever solutions are sold
 ![](/img/Delivery.png)
 
 [Source](https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwj108H0x4XfAhVhhOAKHcryCMwQjRx6BAgBEAU&url=https%3A%2F%2Fknowyourmeme.com%2Fphotos%2F947750-spongebob-s-hype-stand&psig=AOvVaw2yDvWTC78fkarV1mUiSRTF&ust=1543991826704237)
 
-Finall, when a solution and design have been completed, it’s time to tell the potential users about it. It’s almost unethical not to. As a designer, it is my responsibility to promote my design as efficiently, effectively, and honestly as possible towards the previously identified intended users. Deception and false advertising of any kind is unacceptable.
+Finally, when a solution and design have been completed, it’s time to tell the potential users about it. It’s almost unethical not to. As a designer, it is my responsibility to promote my design as efficiently, effectively, and honestly as possible towards the previously identified intended users. Deception and false advertising of any kind is unacceptable.
 
 Getting the messaging and presentation right to the best of my ability is key. If the messaging of the design does not align with how the user perceives their issue, then the solution has effectively failed because it’s not going to be used. The name, tagline, and logo should all afford some critical aspect of the design to the user so that they understand the solution the design supports. The high-fidelity of the design presentation helps build initial trust and eventual rapport with the design and the user. 
 
