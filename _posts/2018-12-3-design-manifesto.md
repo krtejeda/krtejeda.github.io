@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Design Manifesto
-bigimg: /img/hello_world.jpeg
+bigimg: /img/Design-Thinking-1
 ---
 
 hi
