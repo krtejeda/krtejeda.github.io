@@ -40,14 +40,25 @@ First, a design is usable and intuitive if and only if it is accessible (don't a
 ![](/img/Accessibility1.png)
 *Apple Watch Human Interface guidelines*
 
-Next, a design should not only be available for the intended users, but potential intended users and anyone who happens to find it relevant to their needs. To accomplish this, every design should strive to maximize its potential to reach other users like the curb does with the [“curb cut” effect](https://theblog.adobe.com/design-with-accessibility-in-mind-the-pour-methodology/) (). However, something to be careful about is to avoid generalizing the design to the point where it no longer effectively supports the needs of the intended user. Thus, it’s important to be clear about the intention of the design. For example, screen readers are designed to help the visually impaired with reading on the web, and its availability allows other users to use it as a transcription device, but it is first and foremost a screen reader. I discover the intention of design by exploring its two components: the problem and the purpose.
+Next, a design should not only be available for the intended users, but potential intended users and anyone who happens to find it relevant to their needs. To accomplish this, every design should strive to maximize its potential to reach other users like the curb does with the [“curb cut” effect](https://theblog.adobe.com/design-with-accessibility-in-mind-the-pour-methodology/) (Smyk 1). However, something to be careful about is to avoid generalizing the design to the point where it no longer effectively supports the needs of the intended user. Thus, it’s important to be clear about the intention of the design. For example, screen readers are designed to help the visually impaired with reading on the web, and its availability allows other users to use it as a transcription device, but it is first and foremost a screen reader. I discover the intention of design by exploring its two components: the problem and the purpose.
 
 ### [3. The Problem] 
 ![](/img/Problem.gif)
 
 [Source](https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwi3ov2yx4XfAhWxUt8KHdY0CC8QjRx6BAgBEAU&url=https%3A%2F%2Fwww.memecenter.com%2Ffun%2F632766%2Fwhat-seems-to-be-the-officer-problem&psig=AOvVaw26UdqXX638761JMtkLL2ZD&ust=1543991689159057)
 
-Clearly define the problem
+Clearly defining the problem is the first step to beginning any design challenge. To clearly define the problem involves empathy, and that empathy is built through real experience with the issue. For the design process of [Personal CuraTour](https://krtejeda.github.io/PersonalCuraTour/), my group visited and experienced the museum of interest, observed museum visitors using the Fly on the Wall method, and then directly interacted with visitors using a Contextual Inquiry (Hanington and Bella 47-89). Despite that none of my group members or I were previously invested in the state of museum experiences, our continual empathy towards the problem we discovered gave us a clear direction to address them. 
+
+However, our empathy is limited, so it’s important to keep the users in conversation through out the development of the design or create Personas that have the same hopes and fears as the user because as countlessly stated (Hanington and Bella 132):
+
+> The user is not like me
+
+The user is the embodiment of the hopes and fears the problem causes, so whenever possible, Participatory Design should be employed at least partly to make sure the solution incorporates some immediate fixes (Rohrer 1). However, this method should be used to supplement other design methods that don't involve the user because of the sentiment of stagnation implied in this fake Henry Ford quote: 
+
+> If I asked people what they wanted they would have said a faster horse
+
+As such, the user and the problem statement serve as guiding stars and focal points that keep me grounded with the problem, but I only need to converge when I diverge in the search for solutions, and during that divergence it’s important to not lose my purpose.
+
 ### [4. The Purpose] *I forgot what I'm supposed to write next...oh yeah!* Don't lose sight of the objective
 ![](/img/Purpose.jpg)
 
