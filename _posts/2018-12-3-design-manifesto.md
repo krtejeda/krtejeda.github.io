@@ -89,10 +89,9 @@ Demos and examples are also necessary to put power into the user’s hands and a
 ![](/img/Delivery2.png)
 *Interactive prototype for Personal CuraTour*
 
-# [Bottom bun] 
+# [Bottom bun] Serves three people
 
 The user centered design is an incredibly useful tool that emphasizes ethics, accessibility, and utility above all else. There are a number of ambiguous problems facing society that could benefit from the more clearly defined and methodical process of user centered design. However, I concede that the full user centered design process isn’t the end all be all for all problems. Instead, when there is push back from management about how long the process will take or when the entire process would be overkill for a particular problem, I can at least rely on the human principals and problem solving skills that I’ve learned as a result of the process. I expand on a comment I made earlier and restate that my ultimate goal as a designer is to improve the quality of life of *everyone*, somehow, someway. In any project I participate in from here on, there is never not a question about the humanitarian implications of any decision made. The exploitation and unconcern for human welfare is an unacceptable practice. We all have one life. We should get to enjoy it.
-
 
 Oh no, I'm getting hungry again...
 
