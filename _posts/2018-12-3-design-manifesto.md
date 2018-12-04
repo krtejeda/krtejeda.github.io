@@ -28,7 +28,7 @@ This strict code also serves to protect my work from my own biases that could le
 
 I would have liked to have made a stronger statement in my ethical code like “do no harm,” but I accept that not all situations are so black and white. Yet even in these situations, a decision *needs* to be made, so it’s important that the implications of that decision align consistently my ethical code. The [Moral Machine](http://moralmachine.mit.edu) serves as a good example to my approach to ethics (citation). I quickly decided that avoiding harm meant limiting my human influence and not swerving the car into another group of people. The only human influence I employed was if the lives of the passengers were taken instead because they hopefully understood the risk of using the car. Other people apparently felt that traffic laws were more important. However, the point is that my decisions were consistent with my ethical code, and I can be confident that despite the potential controversy, I can be confident that my decisions are what I’ve always believed to be right, not what I felt were right in that moment. If there was a loved one in the path of the car is another question that I don’t think is currently worth answering, but it’s an example of the consequence of designing for all humans, not just myself.
 
-### [2. Accessibility] So easy a bab...actually *anyone* can use
+### [2. Accessibility] So easy a baby...actually *anyone* can use
 ![](/img/Accessibility.jpg)
 
 [Source](https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiQlK6Rw4XfAhXhct8KHQYqDPgQjRx6BAgBEAU&url=https%3A%2F%2Fwww.ilovepdf.com%2Ffeatures&psig=AOvVaw1-c9w4DI5pvNUEbi6Dw1sC&ust=1543990527847852)
@@ -38,6 +38,7 @@ Part of my ethical code of doing no harm includes making sure a design is availa
 First, a design is usable and intuitive if and only if it is accessible (don't ask me to do the proof, just trust me). As such, designing with accessibility principles in mind leads to functional yet elegant designs. In the design of our watch app, we strictly designed for accessibility using Apple’s [Apple Watch Human Interface guidelines](https://developer.apple.com/design/human-interface-guidelines/watchos/overview/themes/) and the [Dos and don'ts of designing for accessibility](https://www.google.com/url?q=https%3A%2F%2Fglow.williams.edu%2Ffiles%2F133121172%2Fdownload%3Fdownload_frd%3D1&sa=D&sntz=1&usg=AFQjCNETPD8zlkhx97yLnOXTp0N6UcqlCA) infographic, and what resulted was a beautiful and intuitive design. 
 
 ![](/img/Accessibility1.png)
+*Apple Watch Human Interface guidelines*
 
 Next, a design should not only be available for the intended users, but potential intended users and anyone who happens to find it relevant to their needs. To accomplish this, every design should strive to maximize its potential to reach other users like the curb does with the [“curb cut” effect](https://theblog.adobe.com/design-with-accessibility-in-mind-the-pour-methodology/) (). However, something to be careful about is to avoid generalizing the design to the point where it no longer effectively supports the needs of the intended user. Thus, it’s important to be clear about the intention of the design. For example, screen readers are designed to help the visually impaired with reading on the web, and its availability allows other users to use it as a transcription device, but it is first and foremost a screen reader. I discover the intention of design by exploring its two components: the problem and the purpose.
 
@@ -61,7 +62,17 @@ When you
 
 [Source](https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwj108H0x4XfAhVhhOAKHcryCMwQjRx6BAgBEAU&url=https%3A%2F%2Fknowyourmeme.com%2Fphotos%2F947750-spongebob-s-hype-stand&psig=AOvVaw2yDvWTC78fkarV1mUiSRTF&ust=1543991826704237)
 
-You made something that you feel people will want. Now its time to tell them about it.
+Finall, when a solution and design have been completed, it’s time to tell the potential users about it. It’s almost unethical not to. As a designer, it is my responsibility to promote my design as efficiently, effectively, and honestly as possible towards the previously identified intended users. Deception and false advertising of any kind is unacceptable.
+
+Getting the messaging and presentation right to the best of my ability is key. If the messaging of the design does not align with how the user perceives their issue, then the solution has effectively failed because it’s not going to be used. The name, tagline, and logo should all afford some critical aspect of the design to the user so that they understand the solution the design supports. The high-fidelity of the design presentation helps build initial trust and eventual rapport with the design and the user. 
+
+![](/img/Delivery1.png)
+*Tagline for Personal CuraTour*
+
+Demos and examples are also necessary to put power into the user’s hands and allow them to gauge the utility of the design for their situation. If there happens to be a misinterpretation of the initial messaging, the user should be offered easily accessible and low commitment examples that allow them the rectify any misperceptions they may have had. Interactive demos built with Invision or other services should be clearly labeled and encouraged for use before the user commits to the full experience. 
+
+![](/img/Delivery2.png)
+*Interactive prototype for Personal CuraTour*
 
 # [Conclusion] Bottom bun
 
