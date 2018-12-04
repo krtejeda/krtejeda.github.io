@@ -6,14 +6,13 @@ subtitle: Design Manifesto
 
 # [Intro] Top bun
 
-I'm hungry. Brb...*Phew* I almost wrote an essay that relied on a ridiculous hotdog metaphor to string together a narrative.
+I'm hungry. Be right back...*Phew* I almost wrote an essay that relied on a ridiculous hotdog metaphor to loosely string together a narrative.
 
-Anyways, I find it useful to emphasize that I primarily iden
+Unfortunately I didn’t take a picture of my meal or else I would have shared it here, but if you’re curious, my hunger was satisfied by finally completing the design process. I was first introduced to the concept of user centered design during Winter Study 2018 when nine other students and I, with the guidance of Design Thinker in Residence, Ric Grefe, traveled to IBM Design to tackle a challenge way out of our league; the library asked us to help them rethink the future of the library. We decided the library was fine, colloquially known as “RIP-ing the brief,” and identified bigger institutional issues we wanted to tackle. Long story short, even though we stopped short of the prototyping phase, I loved the experience, and that’s when I first heard my stomach growl…
 
-My personal manifesto/Hippocratic Oath consists of the following principals:
+I was dying for more. Luckily, later that year I worked with Iris Howley and three other students doing just that! I finally got to experience every aspect of the process, but it went by too fast for me to appreciate it. So, again, the experience was just bite size.
 
-- 
-Oh no, I'm getting hungry again...
+I got another chance when I took Human-Computer Interaction in Fall 2018, and finally, I got a good bite, and it was so good. Here’s the recipe: 
 
 # [Body] Meat
 ### [1. Ethics] Okay fine...I wont be evil
