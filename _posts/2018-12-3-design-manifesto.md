@@ -93,3 +93,13 @@ Demos and examples are also necessary to put power into the user’s hands and a
 # [Conclusion] Bottom bun
 
 Designers and engineers should consider create their own manifesto/Hippocratic Oath. In the meantime By the time I finished this manifesto, I got hungry again. Actually, as a matter of fact, I'm starving.  
+
+## [References] Side of fries
+
+- gov.uk, "Dos and don'ts of designing for accessibility" on Gov.uk. 
+
+- Hanington, Bruce M., and Bella Martin. Universal Methods of Design: 100 Ways to Research Complex Problems, Develop Innovative Ideas, and Design Effective Solutions. Rockport Publishers, 2012.
+
+- Rohrer. 2014. "When to Use Which User-Experience Research Methods," in Nielsen Norman Group.
+
+- Smyk, Andrew. “Design With Accessibility in Mind: The POUR Methodology.” Adobe Blog, Adobe, 16 Aug. 2018, theblog.adobe.com/design-with-accessibility-in-mind-the-pour-methodology/.
