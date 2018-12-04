@@ -18,12 +18,14 @@ A design is intuitive if and only if it is accessible (don't ask me to do the pr
 ## [3. The Problem] 
 !()[/img/Problem.jpg]
 
-Whats the problem
-## [4. The Purpose] Don't lose sight of the problem
+Clearly define the problem
+## [4. The Purpose] *"I forgot what I'm supposed to write next...oh yeah!"* Don't lose sight of the problem
 !()[/img/Purpose.jpg]
 Empathy. 
 Why are we doing any of this
-## [5. The Delivery] 
+When you think about adding features, think why
+When you 
+## [5. The Delivery] Solution™ -- Now available wherever solutions are sold
 !()[/img/Delivery.jpg]
 
 You made something that you feel people will want. Now its time to tell them about it.
